@@ -1,8 +1,8 @@
 <div id="top"></div>
-![Test Image 4](https://zapodaj.net/440bccd5728ec.jpg.html>testy_git_promo.jpg)
+![Test Image 4](https://zapodaj.net/images/440bccd5728ec.jpg)
 <a href=https://zapodaj.net/440bccd5728ec.jpg.html>testy_git_promo.jpg</a>
 <p align="center">
-<a href=https://zapodaj.net/440bccd5728ec.jpg.html>testy_git_promo.jpg</a>
+<a href=https://zapodaj.net/images/440bccd5728ec.jpg</a>
 <img src="https://zapodaj.net/440bccd5728ec.jpg.html" width="300" height="300">
   <br>
         This exercises I enjoyed as a part of learning my testing skills for Java Unit Tests and Integrational, E2E Testing for "REST" directory
