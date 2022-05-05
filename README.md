@@ -1,21 +1,16 @@
 <div id="top"></div>
 
+<p align="center">
+<img src="/1234.jpg" alt="Logo" width="300" height="300">
+</p>
 
 
-    <img src="1234.jpg" alt="Logo" width="80" height="80">
 
-
-
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
       This exercises I enjoyed as a part of learning my testing skills for Java Unit Tests and Integrational, E2E Testing for "REST" directory
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
   </ol>
 </details>
