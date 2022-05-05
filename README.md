@@ -1,3 +1,6 @@
+
+![testy_git_promo](https://user-images.githubusercontent.com/85828070/167006209-c2522fc7-0fe6-4acc-9547-6b3b29e9b2b0.jpg)
+
 <div id="top"></div>
 ![testy_git_promo](https://user-images.githubusercontent.com/85828070/167006209-c2522fc7-0fe6-4acc-9547-6b3b29e9b2b0.jpg)
 
