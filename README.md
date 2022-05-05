@@ -1,7 +1,7 @@
 
 ![testy_git_promo](https://user-images.githubusercontent.com/85828070/167006209-c2522fc7-0fe6-4acc-9547-6b3b29e9b2b0.jpg)
 
-*<h5>These exercises I enjoyed as a part of learning my testing skills for Java Unit Tests and Integrational, E2E Testing for "REST" directory</h5>* 
+*<h5 align="center">These exercises I enjoyed as a part of learning my testing skills for Java Unit Tests and Integrational, E2E Testing for "REST" directory</h5>* 
 <br>
 Technologies used:
 
